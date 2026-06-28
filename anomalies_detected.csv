@@ -1,0 +1,17 @@
+transaction_id,date,vendor,category,department,amount,approver,flag_structuring,flag_weekend,flag_statistical_outlier,flag_duplicate,risk_score,flag_reasons
+TXN00165,2026-02-15 13:06:00,Nova Marketing Agency,Marketing,Facilities,20510.02,S. Byrne,False,True,True,False,2,Processed on a weekend; Statistical outlier for category
+TXN00151,2026-02-27 13:47:00,CloudHost Services,IT & Software,IT,9587.64,A. Murphy,True,False,True,False,2,Amount near approval threshold; Statistical outlier for category
+TXN00152,2026-03-13 16:32:00,Summit Legal Services,Professional Services,Marketing,9914.41,S. Byrne,True,False,True,False,2,Amount near approval threshold; Statistical outlier for category
+TXN00164,2026-03-21 12:02:00,Riverbank Equipment Hire,Equipment,Facilities,20557.95,R. Walsh,False,True,True,False,2,Processed on a weekend; Statistical outlier for category
+TXN00154,2026-05-27 11:55:00,Greenfield Logistics,Logistics,Facilities,9861.38,R. Walsh,True,False,True,False,2,Amount near approval threshold; Statistical outlier for category
+TXN00159,2026-01-13 18:52:00,Riverbank Equipment Hire,Equipment,Facilities,1287.01,S. Byrne,False,False,False,True,1,Possible duplicate payment
+TXN00160,2026-01-15 18:52:00,Riverbank Equipment Hire,Equipment,Facilities,1287.01,R. Walsh,False,False,False,True,1,Possible duplicate payment
+TXN00161,2026-01-31 08:02:00,CloudHost Services,IT & Software,Marketing,3985.75,J. Connolly,False,True,False,False,1,Processed on a weekend
+TXN00162,2026-02-15 16:08:00,CloudHost Services,IT & Software,IT,2087.75,R. Walsh,False,True,False,False,1,Processed on a weekend
+TXN00153,2026-02-27 13:51:00,Nova Marketing Agency,Marketing,Operations,9733.7,J. Connolly,True,False,False,False,1,Amount near approval threshold
+TXN00155,2026-03-18 08:16:00,Summit Legal Services,Professional Services,IT,1604.71,S. Byrne,False,False,False,True,1,Possible duplicate payment
+TXN00156,2026-03-19 08:16:00,Summit Legal Services,Professional Services,Facilities,1604.71,S. Byrne,False,False,False,True,1,Possible duplicate payment
+TXN00166,2026-03-19 12:12:00,Staples Office Supply,Office Supplies,Operations,29235.16,R. Walsh,False,False,True,False,1,Statistical outlier for category
+TXN00157,2026-05-04 13:06:00,Riverbank Equipment Hire,Equipment,IT,1638.26,J. Connolly,False,False,False,True,1,Possible duplicate payment
+TXN00158,2026-05-05 13:06:00,Riverbank Equipment Hire,Equipment,HR,1638.26,S. Byrne,False,False,False,True,1,Possible duplicate payment
+TXN00163,2026-05-30 10:56:00,Riverbank Equipment Hire,Equipment,IT,2792.23,R. Walsh,False,True,False,False,1,Processed on a weekend
